@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\mvctestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\mvctestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\dotnet\\dotnettraining\\mvctestproject\\mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\dotnet\\dotnettraining\\mvctestproject\\mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -27,39 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\appsettings.json",
-              "RelativeDocumentMoniker": "mvcTestProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\appsettings.json",
-              "RelativeToolTip": "mvcTestProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T12:58:21.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "mvcTestProject.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\mvcTestProject.csproj",
-              "RelativeDocumentMoniker": "mvcTestProject\\mvcTestProject.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\mvcTestProject.csproj",
-              "RelativeToolTip": "mvcTestProject\\mvcTestProject.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-03T12:58:21.275Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvcTestProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T14:17:25.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "mvcTestProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T12:51:50.492Z"
+              "WhenOpened": "2025-01-03T14:17:07.247Z",
+              "EditorCaption": ""
             }
           ]
         }

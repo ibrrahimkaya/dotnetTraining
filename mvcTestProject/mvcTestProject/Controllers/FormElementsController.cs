@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using mvcTestProject.Models;
 
+
 namespace mvcTestProject.Controllers
 {
     public class FormElementsController : Controller
@@ -13,7 +14,7 @@ namespace mvcTestProject.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult FormElements()
         {
             return View();
         }

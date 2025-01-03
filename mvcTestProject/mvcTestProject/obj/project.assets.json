@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\mvcTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\mvcTestProject.csproj",
       "projectName": "mvcTestProject",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\mvcTestProject.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\mvcTestProject.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

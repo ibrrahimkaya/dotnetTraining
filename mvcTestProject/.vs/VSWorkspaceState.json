@@ -2,10 +2,6 @@
   "ExpandedNodes": [
     "",
     "\\mvcTestProject",
-    "\\mvcTestProject\\bin",
-    "\\mvcTestProject\\bin\\Debug",
-    "\\mvcTestProject\\bin\\Debug\\net9.0",
-    "\\mvcTestProject\\bin\\Release\\net9.0",
     "\\mvcTestProject\\Controllers",
     "\\mvcTestProject\\Views",
     "\\mvcTestProject\\Views\\Home",
