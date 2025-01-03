@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\controllers\\formelementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\controllers\\formelementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\spicaadmin-free-bootstrap-admin-template-master\\mvctestproject\\mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:03:06.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvcTestProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:02:39.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcTestProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvcTestProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:00:15.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormElementsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Controllers\\FormElementsController.cs",
+              "RelativeDocumentMoniker": "mvcTestProject\\Controllers\\FormElementsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SpicaAdmin-Free-Bootstrap-Admin-Template-master\\mvcTestProject\\mvcTestProject\\Controllers\\FormElementsController.cs",
+              "RelativeToolTip": "mvcTestProject\\Controllers\\FormElementsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:59:58.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
