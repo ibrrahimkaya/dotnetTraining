@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\",
+  "WorkspaceRootPath": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\dotnet\\dotnettraining\\mvctestproject\\mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\ibram\\desktop\\asp.net projects\\dotnettraining\\mvctestproject\\mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\administrator\\desktop\\dotnet\\dotnettraining\\mvctestproject\\mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\ibram\\desktop\\asp.net projects\\dotnettraining\\mvctestproject\\mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\ibram\\desktop\\asp.net projects\\dotnettraining\\mvctestproject\\mvctestproject\\views\\typography\\typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\typography\\typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\ibram\\desktop\\asp.net projects\\dotnettraining\\mvctestproject\\mvctestproject\\views\\formelements\\formelements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\formelements\\formelements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\ibram\\desktop\\asp.net projects\\dotnettraining\\mvctestproject\\mvctestproject\\controllers\\formelementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\controllers\\formelementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\ibram\\desktop\\asp.net projects\\dotnettraining\\mvctestproject\\mvctestproject\\controllers\\uifeatures\\buttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\controllers\\uifeatures\\buttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +40,78 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "mvcTestProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "mvcTestProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "mvcTestProject\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYBAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T14:17:25.627Z",
+              "WhenOpened": "2025-01-06T10:36:43.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\dotnet\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHEAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "mvcTestProject\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBsBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T14:17:07.247Z",
+              "WhenOpened": "2025-01-06T10:21:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Typography.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Typography\\Typography.cshtml",
+              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Typography\\Typography.cshtml",
+              "ToolTip": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Typography\\Typography.cshtml",
+              "RelativeToolTip": "mvcTestProject\\Views\\Typography\\Typography.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T10:34:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormElements.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\FormElements\\FormElements.cshtml",
+              "RelativeDocumentMoniker": "mvcTestProject\\Views\\FormElements\\FormElements.cshtml",
+              "ToolTip": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\FormElements\\FormElements.cshtml",
+              "RelativeToolTip": "mvcTestProject\\Views\\FormElements\\FormElements.cshtml",
+              "ViewState": "AgIAADICAAAAAAAAAAAQwEcCAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T10:26:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormElementsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Controllers\\FormElementsController.cs",
+              "RelativeDocumentMoniker": "mvcTestProject\\Controllers\\FormElementsController.cs",
+              "ToolTip": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Controllers\\FormElementsController.cs",
+              "RelativeToolTip": "mvcTestProject\\Controllers\\FormElementsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:25:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Controllers\\uiFeatures\\ButtonsController.cs",
+              "RelativeDocumentMoniker": "mvcTestProject\\Controllers\\uiFeatures\\ButtonsController.cs",
+              "ToolTip": "C:\\Users\\ibram\\Desktop\\asp.net projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Controllers\\uiFeatures\\ButtonsController.cs",
+              "RelativeToolTip": "mvcTestProject\\Controllers\\uiFeatures\\ButtonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:12:17.636Z",
               "EditorCaption": ""
             }
           ]
