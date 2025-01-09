@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Formlar";
+    ViewData["Title"] = "Typography";
 }
 
 <div class="main-panel">
@@ -8,158 +8,17 @@
             <div class="col-md-6 grid-margin stretch-card">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Default form</h4>
+                        <h4 class="card-title">Headings</h4>
                         <p class="card-description">
-                            Basic form layout
+                            Add tags <code>&lt;h1&gt;</code> to <code>&lt;h6&gt;</code> or class <code>.h1</code> to <code>.h6</code>
                         </p>
-                        <form class="forms-sample">
-                            <div class="form-group">
-                                <label for="exampleInputUsername1">Username</label>
-                                <input type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleInputEmail1">Email address</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleInputPassword1">Password</label>
-                                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleInputConfirmPassword1">Confirm Password</label>
-                                <input type="password" class="form-control" id="exampleInputConfirmPassword1" placeholder="Password">
-                            </div>
-                            <div class="form-check form-check-flat form-check-primary">
-                                <label class="form-check-label">
-                                    <input type="checkbox" class="form-check-input">
-                                    Remember me
-                                </label>
-                            </div>
-                            <button type="submit" class="btn btn-primary me-2">Submit</button>
-                            <button class="btn btn-light">Cancel</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-                <div class="card">
-                    <div class="card-body">
-                        <h4 class="card-title">Horizontal Form</h4>
-                        <p class="card-description">
-                            Horizontal form layout
-                        </p>
-                        <form class="forms-sample">
-                            <div class="form-group row">
-                                <label for="exampleInputUsername2" class="col-sm-3 col-form-label">Email</label>
-                                <div class="col-sm-9">
-                                    <input type="text" class="form-control" id="exampleInputUsername2" placeholder="Username">
-                                </div>
-                            </div>
-                            <div class="form-group row">
-                                <label for="exampleInputEmail2" class="col-sm-3 col-form-label">Email</label>
-                                <div class="col-sm-9">
-                                    <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email">
-                                </div>
-                            </div>
-                            <div class="form-group row">
-                                <label for="exampleInputMobile" class="col-sm-3 col-form-label">Mobile</label>
-                                <div class="col-sm-9">
-                                    <input type="text" class="form-control" id="exampleInputMobile" placeholder="Mobile number">
-                                </div>
-                            </div>
-                            <div class="form-group row">
-                                <label for="exampleInputPassword2" class="col-sm-3 col-form-label">Password</label>
-                                <div class="col-sm-9">
-                                    <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password">
-                                </div>
-                            </div>
-                            <div class="form-group row">
-                                <label for="exampleInputConfirmPassword2" class="col-sm-3 col-form-label">Re Password</label>
-                                <div class="col-sm-9">
-                                    <input type="password" class="form-control" id="exampleInputConfirmPassword2" placeholder="Password">
-                                </div>
-                            </div>
-                            <div class="form-check form-check-flat form-check-primary">
-                                <label class="form-check-label">
-                                    <input type="checkbox" class="form-check-input">
-                                    Remember me
-                                </label>
-                            </div>
-                            <button type="submit" class="btn btn-primary me-2">Submit</button>
-                            <button class="btn btn-light">Cancel</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 grid-margin stretch-card">
-                <div class="card">
-                    <div class="card-body">
-                        <h4 class="card-title">Basic form elements</h4>
-                        <p class="card-description">
-                            Basic form elements
-                        </p>
-                        <form class="forms-sample">
-                            <div class="form-group">
-                                <label for="exampleInputName1">Name</label>
-                                <input type="text" class="form-control" id="exampleInputName1" placeholder="Name">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleInputEmail3">Email address</label>
-                                <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleInputPassword4">Password</label>
-                                <input type="password" class="form-control" id="exampleInputPassword4" placeholder="Password">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleSelectGender">Gender</label>
-                                <select class="form-control" id="exampleSelectGender">
-                                    <option>Male</option>
-                                    <option>Female</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                <label>File upload</label>
-                                <input type="file" name="img[]" class="file-upload-default">
-                                <div class="input-group col-xs-12">
-                                    <input type="text" class="form-control file-upload-info" disabled placeholder="Upload Image">
-                                    <span class="input-group-append">
-                                        <button class="file-upload-browse btn btn-primary" type="button">Upload</button>
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleInputCity1">City</label>
-                                <input type="text" class="form-control" id="exampleInputCity1" placeholder="Location">
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleTextarea1">Textarea</label>
-                                <textarea class="form-control" id="exampleTextarea1" rows="4"></textarea>
-                            </div>
-                            <button type="submit" class="btn btn-primary me-2">Submit</button>
-                            <button class="btn btn-light">Cancel</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-                <div class="card">
-                    <div class="card-body">
-                        <h4 class="card-title">Input size</h4>
-                        <p class="card-description">
-                            Add classes like <code>.form-control-lg</code> and <code>.form-control-sm</code>.
-                        </p>
-                        <div class="form-group">
-                            <label>Large input</label>
-                            <input type="text" class="form-control form-control-lg" placeholder="Username" aria-label="Username">
-                        </div>
-                        <div class="form-group">
-                            <label>Default input</label>
-                            <input type="text" class="form-control" placeholder="Username" aria-label="Username">
-                        </div>
-                        <div class="form-group">
-                            <label>Small input</label>
-                            <input type="text" class="form-control form-control-sm" placeholder="Username" aria-label="Username">
+                        <div class="template-demo">
+                            <h1>h1. Heading</h1>
+                            <h2>h2. Heading</h2>
+                            <h3>h3. Heading</h3>
+                            <h4>h4. Heading</h4>
+                            <h5>h5. Heading</h5>
+                            <h6>h6. Heading</h6>
                         </div>
                     </div>
                 </div>
@@ -167,39 +26,47 @@
             <div class="col-md-6 grid-margin stretch-card">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Select size</h4>
+                        <h4 class="card-title">Headings with secondary text</h4>
                         <p class="card-description">
-                            Add classes like <code>.form-control-lg</code> and <code>.form-control-sm</code>.
+                            Add faded secondary text to headings
                         </p>
-                        <div class="form-group">
-                            <label for="exampleFormControlSelect1">Large select</label>
-                            <select class="form-control form-control-lg" id="exampleFormControlSelect1">
-                                <option>1</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                                <option>5</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleFormControlSelect2">Default select</label>
-                            <select class="form-control" id="exampleFormControlSelect2">
-                                <option>1</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                                <option>5</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleFormControlSelect3">Small select</label>
-                            <select class="form-control form-control-sm" id="exampleFormControlSelect3">
-                                <option>1</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                                <option>5</option>
-                            </select>
+                        <div class="template-demo">
+                            <h1>
+                                h1. Heading
+                                <small class="text-muted">
+                                    Secondary text
+                                </small>
+                            </h1>
+                            <h2>
+                                h2. Heading
+                                <small class="text-muted">
+                                    Secondary text
+                                </small>
+                            </h2>
+                            <h3>
+                                h3. Heading
+                                <small class="text-muted">
+                                    Secondary text
+                                </small>
+                            </h3>
+                            <h4>
+                                h4. Heading
+                                <small class="text-muted">
+                                    Secondary text
+                                </small>
+                            </h4>
+                            <h5>
+                                h5. Heading
+                                <small class="text-muted">
+                                    Secondary text
+                                </small>
+                            </h5>
+                            <h6>
+                                h6. Heading
+                                <small class="text-muted">
+                                    Secondary text
+                                </small>
+                            </h6>
                         </div>
                     </div>
                 </div>
@@ -207,70 +74,68 @@
             <div class="col-md-6 grid-margin stretch-card">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Basic input groups</h4>
+                        <h4 class="card-title">Display headings</h4>
                         <p class="card-description">
-                            Basic bootstrap input groups
+                            Add class <code>.display1</code> to <code>.display-4</code>
                         </p>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text">tested</span>
-                                </div>
-                                <input type="text" class="form-control" placeholder="Username" aria-label="Username">
+                        <div class="template-demo">
+                            <h1 class="display-1">Display 1</h1>
+                            <h1 class="display-2">Display 2</h1>
+                            <h1 class="display-3">Display 3</h1>
+                            <h1 class="display-4">Display 4</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 d-flex align-items-stretch">
+                <div class="row">
+                    <div class="col-md-12 grid-margin stretch-card">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Paragraph</h4>
+                                <p class="card-description">
+                                    Write text in <code>&lt;p&gt;</code> tag
+                                </p>
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                    when an unknown printer took a galley not only five centuries,
+                                </p>
                             </div>
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text bg-primary text-white">$</span>
-                                </div>
-                                <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-                                <div class="input-group-append">
-                                    <span class="input-group-text">.00</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text">$</span>
-                                </div>
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text">0.00</span>
-                                </div>
-                                <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username">
-                                <div class="input-group-append">
-                                    <button class="btn btn-sm btn-primary" type="button">Search</button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <div class="input-group-prepend">
-                                    <button class="btn btn-sm btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</button>
-                                    <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <div role="separator" class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Separated link</a>
+                    </div>
+                    <div class="col-md-12 grid-margin stretch-card">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Icon size</h4>
+                                <p class="card-description">
+                                    Add class <code>.icon-lg</code>, <code>.icon-md</code>, <code>.icon-sm</code>
+                                </p>
+                                <div class="row">
+                                    <div class="col-md-4 d-flex align-items-center">
+                                        <div class="d-flex flex-row align-items-center">
+                                            <i class="mdi mdi-compass-outline icon-lg text-warning"></i>
+                                            <p class="mb-0 ml-1">
+                                                Icon-lg
+                                            </p>
+                                        </div>
                                     </div>
-                                </div>
-                                <input type="text" class="form-control" aria-label="Text input with dropdown button">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Find in facebook" aria-label="Recipient's username">
-                                <div class="input-group-append">
-                                    <button class="btn btn-sm btn-facebook" type="button">
-                                        <i class="mdi mdi-facebook"></i>
-                                    </button>
+                                    <div class="col-md-4 d-flex align-items-center">
+                                        <div class="d-flex flex-row align-items-center">
+                                            <i class="mdi mdi-compass-outline icon-md text-success"></i>
+                                            <p class="mb-0 ml-1">
+                                                Icon-md
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex align-items-center">
+                                        <div class="d-flex flex-row align-items-center">
+                                            <i class="mdi mdi-compass-outline icon-sm text-danger"></i>
+                                            <p class="mb-0 ml-1">
+                                                Icon-sm
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -280,321 +145,314 @@
             <div class="col-md-6 grid-margin stretch-card">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Checkbox Controls</h4>
-                        <p class="card-description">Checkbox and radio controls (default appearance is in primary color)</p>
-                        <form>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input">
-                                                Default
-                                            </label>
-                                        </div>
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" checked>
-                                                Checked
-                                            </label>
-                                        </div>
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" disabled>
-                                                Disabled
-                                            </label>
-                                        </div>
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" disabled checked>
-                                                Disabled checked
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios1" value="">
-                                                Default
-                                            </label>
-                                        </div>
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios2" value="option2" checked>
-                                                Selected
-                                            </label>
-                                        </div>
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="optionsRadios2" id="optionsRadios3" value="option3" disabled>
-                                                Disabled
-                                            </label>
-                                        </div>
-                                        <div class="form-check">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="optionsRadio2" id="optionsRadios4" value="option4" disabled checked>
-                                                Selected and disabled
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="card-body">
-                        <p class="card-description">Add class <code>.form-check-{color}</code> for checkbox and radio controls in theme colors</p>
-                        <form>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <div class="form-check form-check-primary">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" checked>
-                                                Primary
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-success">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" checked>
-                                                Success
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-info">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" checked>
-                                                Info
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-danger">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" checked>
-                                                Danger
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-warning">
-                                            <label class="form-check-label">
-                                                <input type="checkbox" class="form-check-input" checked>
-                                                Warning
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <div class="form-check form-check-primary">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="ExampleRadio1" id="ExampleRadio1" checked>
-                                                Primary
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-success">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="ExampleRadio2" id="ExampleRadio2" checked>
-                                                Success
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-info">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="ExampleRadio3" id="ExampleRadio3" checked>
-                                                Info
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-danger">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="ExampleRadio4" id="ExampleRadio4" checked>
-                                                Danger
-                                            </label>
-                                        </div>
-                                        <div class="form-check form-check-warning">
-                                            <label class="form-check-label">
-                                                <input type="radio" class="form-check-input" name="ExampleRadio5" id="ExampleRadio5" checked>
-                                                Warning
-                                            </label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 grid-margin stretch-card">
-                <div class="card">
-                    <div class="card-body">
-                        <h4 class="card-title">Inline forms</h4>
+                        <h4 class="card-title">Blockquotes</h4>
                         <p class="card-description">
-                            Use the <code>.form-inline</code> class to display a series of labels, form controls, and buttons on a single horizontal row
+                            Wrap content inside<code>&lt;blockquote class="blockquote"&gt;</code>
                         </p>
-                        <form class="form-inline">
-                            <label class="sr-only" for="inlineFormInputName2">Name</label>
-                            <input type="text" class="form-control mb-2 mr-sm-2" id="inlineFormInputName2" placeholder="Jane Doe">
-
-                            <label class="sr-only" for="inlineFormInputGroupUsername2">Username</label>
-                            <div class="input-group mb-2 mr-sm-2">
-                                <div class="input-group-prepend">
-                                    <div class="input-group-text">tested</div>
-                                </div>
-                                <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Username">
-                            </div>
-                            <div class="form-check mx-sm-2">
-                                <label class="form-check-label">
-                                    <input type="checkbox" class="form-check-input" checked>
-                                    Remember me
-                                </label>
-                            </div>
-                            <button type="submit" class="btn btn-primary mb-2">Submit</button>
-                        </form>
+                        <blockquote class="blockquote">
+                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                        </blockquote>
+                    </div>
+                    <div class="card-body">
+                        <blockquote class="blockquote blockquote-primary">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                            <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                        </blockquote>
                     </div>
                 </div>
             </div>
-            <div class="col-12 grid-margin">
+            <div class="col-md-6 grid-margin stretch-card">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Horizontal Two column</h4>
-                        <form class="form-sample">
-                            <p class="card-description">
-                                Personal info
-                            </p>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">First Name</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Last Name</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
+                        <h4 class="card-title">Address</h4>
+                        <p class="card-description">
+                            Use <code>&lt;address&gt;</code> tag
+                        </p>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <address>
+                                    <p class="font-weight-bold">Spica inc.</p>
+                                    <p>
+                                        695 lsom Ave,
+                                    </p>
+                                    <p>
+                                        Suite 00
+                                    </p>
+                                    <p>
+                                        San Francisco, CA 94107
+                                    </p>
+                                </address>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Gender</label>
-                                        <div class="col-sm-9">
-                                            <select class="form-control">
-                                                <option>Male</option>
-                                                <option>Female</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Date of Birth</label>
-                                        <div class="col-sm-9">
-                                            <input class="form-control" placeholder="dd/mm/yyyy" />
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="col-md-6">
+                                <address class="text-primary">
+                                    <p class="font-weight-bold">
+                                        E-mail
+                                    </p>
+                                    <p class="mb-2">
+                                        johndoe@examplemeail.com
+                                    </p>
+                                    <p class="font-weight-bold">
+                                        Web Address
+                                    </p>
+                                    <p>
+                                        www.Spica.com
+                                    </p>
+                                </address>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Category</label>
-                                        <div class="col-sm-9">
-                                            <select class="form-control">
-                                                <option>Category1</option>
-                                                <option>Category2</option>
-                                                <option>Category3</option>
-                                                <option>Category4</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Membership</label>
-                                        <div class="col-sm-4">
-                                            <div class="form-check">
-                                                <label class="form-check-label">
-                                                    <input type="radio" class="form-check-input" name="membershipRadios" id="membershipRadios1" value="" checked>
-                                                    Free
-                                                </label>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-5">
-                                            <div class="form-check">
-                                                <label class="form-check-label">
-                                                    <input type="radio" class="form-check-input" name="membershipRadios" id="membershipRadios2" value="option2">
-                                                    Professional
-                                                </label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Lead</h4>
+                        <p class="card-description">
+                            Use class <code>.lead</code>
+                        </p>
+                        <p class="lead">
+                            Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Text colors</h4>
+                        <p class="card-description">
+                            Use class <code>.text-primary</code>, <code>.text-secondary</code> etc. for text in theme colors
+                        </p>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="text-primary">.text-primary</p>
+                                <p class="text-success">.text-success</p>
+                                <p class="text-danger">.text-danger</p>
+                                <p class="text-warning">.text-warning</p>
+                                <p class="text-info">.text-info</p>
                             </div>
-                            <p class="card-description">
-                                Address
-                            </p>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Address 1</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">State</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="col-md-6">
+                                <p class="text-light bg-dark ps-1">.text-light</p>
+                                <p class="text-secondary">.text-secondary</p>
+                                <p class="text-dark">.text-dark</p>
+                                <p class="text-muted">.text-muted</p>
+                                <p class="text-white bg-dark ps-1">.text-white</p>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Address 2</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Postcode</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Top aligned media</h4>
+                        <div class="media">
+                            <i class="mdi mdi-earth icon-md text-info d-flex align-self-start me-3"></i>
+                            <div class="media-body">
+                                <p class="card-text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque.</p>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">City</label>
-                                        <div class="col-sm-9">
-                                            <input type="text" class="form-control" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group row">
-                                        <label class="col-sm-3 col-form-label">Country</label>
-                                        <div class="col-sm-9">
-                                            <select class="form-control">
-                                                <option>America</option>
-                                                <option>Italy</option>
-                                                <option>Russia</option>
-                                                <option>Britain</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Center aligned media</h4>
+                        <div class="media">
+                            <i class="mdi mdi-earth icon-md text-info d-flex align-self-center me-3"></i>
+                            <div class="media-body">
+                                <p class="card-text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque.</p>
                             </div>
-                        </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Bottom aligned media</h4>
+                        <div class="media">
+                            <i class="mdi mdi-earth icon-md text-info d-flex align-self-end me-3"></i>
+                            <div class="media-body">
+                                <p class="card-text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Highlighted Text</h4>
+                        <p class="card-description">
+                            Wrap the text in <code>&lt;mark&gt;</code> to highlight text
+                        </p>
+                        <p>
+                            It is a long <mark class="bg-warning text-white">established</mark> fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">List Unordered</h4>
+                        <ul>
+                            <li>Lorem ipsum dolor sit amet</li>
+                            <li>Consectetur adipiscing elit</li>
+                            <li>Integer molestie lorem at massa</li>
+                            <li>Facilisis in pretium nisl aliquet</li>
+                            <li>Nulla volutpat aliquam velit</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Bold text</h4>
+                        <p class="card-description">
+                            Use class<code>.font-weight-bold</code>
+                        </p>
+                        <p>
+                            It is a long <span class="font-weight-bold">established fact</span> that a reader will be distracted by the readable content
+                            of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
+                            more-or-less normal distribution
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">List Ordered</h4>
+                        <ol>
+                            <li>Lorem ipsum dolor sit amet</li>
+                            <li>Consectetur adipiscing elit</li>
+                            <li>Integer molestie lorem at massa</li>
+                            <li>Facilisis in pretium nisl aliquet</li>
+                            <li>Nulla volutpat aliquam velit></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title text-primary">Underline</h4>
+                        <p class="card-description">
+                            Wrap in <code>&lt;u&gt;</code> tag for underline
+                        </p>
+                        <p>
+                            <u>
+                                lorem ipsum dolor sit amet, consectetur
+                                mod tempor incididunt ut labore et dolore
+                                magna aliqua.
+                            </u>
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title text-danger">Lowercase</h4>
+                        <p class="card-description">
+                            Use class <code>.text-lowercase</code>
+                        </p>
+                        <p class="text-lowercase">
+                            lorem ipsum dolor sit amet, consectetur
+                            mod tempor incididunt ut labore et dolore
+                            magna aliqua.
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title text-warning">Uppercase</h4>
+                        <p class="card-description">
+                            Use class <code>.text-uppercase</code>
+                        </p>
+                        <p class="text-uppercase">
+                            lorem ipsum dolor sit amet, consectetur
+                            mod tempor incididunt ut labore et dolore
+                            magna aliqua.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Mute</h4>
+                        <p class="card-description">
+                            Use class <code>.text-muted</code>
+                        </p>
+                        <p class="text-muted">
+                            lorem ipsum dolor sit amet, consectetur
+                            mod tempor incididunt ut labore et dolore
+                            magna aliqua.
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title text-success">Strike</h4>
+                        <p class="card-description">
+                            Wrap content in <code>&lt;del&gt;</code> tag
+                        </p>
+                        <p>
+                            <del>
+                                lorem ipsum dolor sit amet, consectetur
+                                mod tempor incididunt ut labore et dolore
+                                magna aliqua.
+                            </del>
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title text-info">Capitalized</h4>
+                        <p class="card-description">
+                            Use class <code>.text-capitalize</code>
+                        </p>
+                        <p class="text-capitalize">
+                            lorem ipsum dolor sit amet, consectetur
+                            mod tempor incididunt ut labore et dolore
+                            magna aliqua.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin grid-margin-md-0 stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">List with icon</h4>
+                        <p class="card-description">Add class <code>.list-ticked</code> to <code>&lt;ul&gt;</code></p>
+                        <ul class="list-ticked">
+                            <li>Lorem ipsum dolor sit amet</li>
+                            <li>Consectetur adipiscing elit</li>
+                            <li>Integer molestie lorem at massa</li>
+                            <li>Facilisis in pretium nisl aliquet</li>
+                            <li>Nulla volutpat aliquam velit></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin grid-margin-md-0 stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">List with icon</h4>
+                        <p class="card-description">Add class <code>.list-arrow</code> to <code>&lt;ul&gt;</code></p>
+                        <ul class="list-arrow">
+                            <li>Lorem ipsum dolor sit amet</li>
+                            <li>Consectetur adipiscing elit</li>
+                            <li>Integer molestie lorem at massa</li>
+                            <li>Facilisis in pretium nisl aliquet</li>
+                            <li>Nulla volutpat aliquam velit></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin grid-margin-md-0 stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">List with icon</h4>
+                        <p class="card-description">Add class <code>.list-star</code> to <code>&lt;ul&gt;</code></p>
+                        <ul class="list-star">
+                            <li>Lorem ipsum dolor sit amet</li>
+                            <li>Consectetur adipiscing elit</li>
+                            <li>Integer molestie lorem at massa</li>
+                            <li>Facilisis in pretium nisl aliquet</li>
+                            <li>Nulla volutpat aliquam velit></li>
+                        </ul>
                     </div>
                 </div>
             </div>

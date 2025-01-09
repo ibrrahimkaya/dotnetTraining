@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\ibrahim</_PublishTargetUrl>
+    <History>True|2025-01-09T12:54:43.8527976Z||;False|2025-01-09T15:54:29.5147980+03:00||;True|2025-01-09T15:51:45.3077939+03:00||;True|2025-01-09T15:46:34.0590151+03:00||;True|2025-01-09T15:08:15.0563096+03:00||;True|2025-01-09T13:48:03.0531299+03:00||;True|2025-01-09T13:39:59.0610636+03:00||;True|2025-01-09T13:36:46.4568097+03:00||;True|2025-01-09T13:33:26.5599845+03:00||;True|2025-01-09T12:53:23.6478419+03:00||;True|2025-01-09T12:25:31.3345231+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Models/desktop.ini">
+      <publishTime>01/09/2025 14:24:54</publishTime>
+    </File>
+    <File Include="Models/ErrorViewModel.cs">
+      <publishTime>01/09/2025 13:47:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

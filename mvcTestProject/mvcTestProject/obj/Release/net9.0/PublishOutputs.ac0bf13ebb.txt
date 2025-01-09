@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\mvcTestProject.exe
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\appsettings.Development.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\appsettings.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\mvcTestProject.dll
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\mvcTestProject.deps.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\mvcTestProject.runtimeconfig.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\PublishOutput\mvcTestProject.pdb

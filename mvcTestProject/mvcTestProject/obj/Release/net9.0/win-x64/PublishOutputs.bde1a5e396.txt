@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\mvcTestProject.exe
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\appsettings.Development.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\appsettings.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\mvcTestProject.dll
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\mvcTestProject.deps.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\mvcTestProject.runtimeconfig.json
+C:\Users\user\Desktop\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\win-x64\publish\mvcTestProject.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\user\Desktop\projects\dotnetTraining\mvcTestProject\mvcTestProject\bin\Release\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2025-01-09T09:07:43.8255319Z||;True|2025-01-09T12:05:51.4919114+03:00||;True|2025-01-09T12:00:41.7036126+03:00||;True|2025-01-09T11:59:00.1556113+03:00||;True|2025-01-09T11:58:46.4556106+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

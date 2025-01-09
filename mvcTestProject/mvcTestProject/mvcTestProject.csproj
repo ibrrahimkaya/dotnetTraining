@@ -7,18 +7,26 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\NewFolder1\**" />
+    <Content Remove="Views\NewFolder1\**" />
+    <EmbeddedResource Remove="Views\NewFolder1\**" />
+    <None Remove="Views\NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\css\.DS_Store" />
     <None Include="wwwroot\images\.DS_Store" />
     <None Include="wwwroot\images\auth\.DS_Store" />
     <None Include="wwwroot\images\faces\.DS_Store" />
     <None Include="wwwroot\js\.DS_Store" />
+    <None Include="wwwroot\Properties\desktop.ini" />
     <None Include="wwwroot\scss\.DS_Store" />
     <None Include="wwwroot\scss\components\.DS_Store" />
     <None Include="wwwroot\vendors\.DS_Store" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\NewFolder1\" />
+    <Folder Include="Views\Charts\" />
   </ItemGroup>
 
 </Project>

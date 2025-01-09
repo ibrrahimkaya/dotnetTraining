@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\mvcTestProject",
-    "\\mvcTestProject\\Controllers",
-    "\\mvcTestProject\\Views",
-    "\\mvcTestProject\\Views\\Home",
-    "\\mvcTestProject\\Views\\Shared"
+    "\\mvcTestProject"
   ],
   "SelectedNode": "\\mvcTestProject.sln",
   "PreviewInSolutionExplorer": false
