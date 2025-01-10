@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\user\\desktop\\projects\\dotnettraining\\mvctestproject\\mvctestproject\\views\\vuepage\\vuepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\vuepage\\vuepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\user\\desktop\\projects\\dotnettraining\\mvctestproject\\mvctestproject\\controllers\\vuepage\\vuepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\controllers\\vuepage\\vuepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|c:\\users\\user\\desktop\\projects\\dotnettraining\\mvctestproject\\mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68C3362-D103-4BED-9BA9-B759DFAE507C}|mvcTestProject\\mvcTestProject.csproj|solutionrelative:mvctestproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\vue\\vue\\vue.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VuePageController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Controllers\\VuePage\\VuePageController.cs",
-              "RelativeDocumentMoniker": "mvcTestProject\\Controllers\\VuePage\\VuePageController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Controllers\\VuePage\\VuePageController.cs",
-              "RelativeToolTip": "mvcTestProject\\Controllers\\VuePage\\VuePageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:50:01.879Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "mvcTestProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T13:20:37.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VuePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\VuePage\\VuePage.cshtml",
-              "RelativeDocumentMoniker": "mvcTestProject\\Views\\VuePage\\VuePage.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\projects\\dotnetTraining\\mvcTestProject\\mvcTestProject\\Views\\VuePage\\VuePage.cshtml",
-              "RelativeToolTip": "mvcTestProject\\Views\\VuePage\\VuePage.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T12:50:20.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "vue.js",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\vue\\vue\\vue.js",
-              "RelativeDocumentMoniker": "..\\..\\..\\vue\\vue\\vue.js",
-              "ToolTip": "C:\\Users\\user\\Desktop\\vue\\vue\\vue.js",
-              "RelativeToolTip": "..\\..\\..\\vue\\vue\\vue.js",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-09T12:47:37.639Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
